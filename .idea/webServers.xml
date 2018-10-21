@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="e2d02197-b6f3-4738-9ad3-4c237521c69c" name="CSSLessons" url="https://github.com/Savelievnikolay1987/">
+      <webServer id="e2d02197-b6f3-4738-9ad3-4c237521c69c" name="CSSLessons" url="https://github.com/">
         <fileTransfer host="" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
