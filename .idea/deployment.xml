@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" uploadOnCheckin="e2d02197-b6f3-4738-9ad3-4c237521c69c">
+  <component name="PublishConfigData">
     <serverData>
       <paths name="CSSLessons">
         <serverdata>
@@ -10,6 +10,5 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="CSSLessons" />
   </component>
 </project>
